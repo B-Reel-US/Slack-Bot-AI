@@ -10,7 +10,7 @@ The project needs some environment variables:
 SLACK_SIGNING_SECRET=
 SLACK_APP_TOKEN=
 SLACK_BOT_TOKEN=
-WEEKLY_MESSAGE_PASSWORD=
+CLAUDE_API_KEY=
 ```
 These can be also found in 1password.
 
